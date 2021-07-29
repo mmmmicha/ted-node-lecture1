@@ -1,2 +1,2 @@
-# -study-nodejs
+# ted-node-lecture1
 For studying Nodejs

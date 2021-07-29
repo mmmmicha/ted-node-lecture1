@@ -1,0 +1,25 @@
+{
+  "name": "ted-node-lecture1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjdrhkd456/ted-node-lecture1.git"
+  },
+  "author": "Ted-Jeong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjdrhkd456/ted-node-lecture1/issues"
+  },
+  "homepage": "https://github.com/wjdrhkd456/ted-node-lecture1#readme"
+}
